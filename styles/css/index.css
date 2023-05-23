@@ -1,0 +1,113 @@
+* {
+ box-sizing: border-box;
+ padding: 0;
+ margin: 0;
+ overflow: auto;
+ font-family: Arial, Helvetica, sans-serif;
+}
+
+
+#NCR {
+    background: rgb(16, 214, 16);
+    color: aliceblue;
+    padding: 30px 20px;
+    line-height: 20px;
+ }
+
+.div,h4,h2 {
+    text-align: center;  
+      
+}
+
+div{
+    padding: 20px;
+}
+
+#divh1{
+    padding: 180px;
+}
+
+div, h1{
+   text-align: center;
+}
+
+#salir {
+    background: rgb(16, 214, 16);
+    width: 80px;
+    height: 45px;
+    border-radius: 10px;
+    position: absolute;
+    top: 640px;
+    left: 15px;
+}
+
+#opciones{
+    position: relative;
+    width: 1000px;
+    height: 400px;
+    margin: auto;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#cuenta1{
+    background: rgb(16, 214, 16);
+    width: 300px;
+    height: 150px;
+    border-radius: 10px;
+    position: absolute;
+    top: 30px;
+    left: 20px;   
+}
+#cuenta2{
+    background: rgb(16, 214, 16);
+    width: 300px;
+    height: 150px;
+    border-radius: 10px;
+    position: absolute;
+    bottom: 30px;
+    left: 20px;
+}
+#cuenta3{
+    background: rgb(16, 214, 16);
+    width: 300px;
+    height: 150px;
+    border-radius: 10px;
+    position: absolute;
+    top: 30px;
+    left: 345px;
+    
+}
+#cuenta4{
+    background: rgb(16, 214, 16);
+    width: 300px;
+    height: 150px;
+    border-radius: 10px;
+    position: absolute;
+    bottom: 30px;
+    left: 345px;
+    
+    
+}
+#cuenta5{
+    background: rgb(16, 214, 16);
+    width: 300px;
+    height: 150px;
+    border-radius: 10px;
+    position: absolute;
+    top: 30px;
+    right: 20px;
+   
+}
+#masopciones{
+    background: rgb(16, 214, 16);
+    width: 300px;
+    height: 150px;
+    border-radius: 10px;
+    position: absolute;
+    bottom: 30px;
+    right: 20px;
+    
+}
+
+
+
